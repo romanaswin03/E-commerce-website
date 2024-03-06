@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
+h3{
+  font-family: "Futura Now Display W05 Light";
+}
+
+h2{
+  font-family: "Kepler Std";
+}
+
+.para{
+  font-family: "Kepler Std";
+}
